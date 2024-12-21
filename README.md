@@ -7,8 +7,10 @@ The RnDReward platform is a decentralized smart contract system built on Ethereu
 
 The platform ensures transparency and fairness by allowing any contributions to be traced on the blockchain.
 
-Contract Address
+Contract Address:
 0xc2244f407DD5Adc9B24E05e365d7376210Edc432
+![Screenshot 2024-12-21 142859](https://github.com/user-attachments/assets/c5ba3a68-5419-4d3d-b7e7-7593503b7413)
+
 
 
 //Key Features//
